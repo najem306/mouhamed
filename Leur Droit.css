@@ -1,0 +1,57 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-size: serif;
+}
+#k10{
+	width: 100%;
+	position: fixed;
+	background-color: black;
+}
+#k11{
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+}
+#k12 a{
+	font-size: 40px;
+	font-weight: 100;
+	color: white;
+	text-align: center;
+}
+#k12 span{
+	color: grey;
+}
+#t5{
+	width: 100%;
+	height: 50%;
+	text-align: center;
+}
+#t5 p{
+	font-size: 40px;
+	font-weight: 100;
+	color: black;
+
+}
+#t6{
+padding: auto 10px;
+margin: auto 10px;
+padding-bottom: 10px,
+}
+#t7 img{
+	width: 500px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 6px;
+}
+#t8 h1{
+	font-size: 40px;
+	font-weight: 100;
+}
+#t8 p{
+	text-align: justify;
+	font-size: 40px;
+	font-weight: 100;
+	text-align: center;
+}

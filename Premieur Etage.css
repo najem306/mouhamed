@@ -1,0 +1,94 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-size: serif;
+}
+#k1{
+	width: 100%;
+	position: fixed;
+	background-color: black;
+}
+#k2{
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+}
+#k3 a{
+	font-size: 40px;
+	font-weight: 100;
+	color: white;
+	text-align: center;
+}
+#k3 span{
+	color: grey;
+}
+#k3 i{
+	padding-right: 10px;
+	color: blue;
+}
+#pr1{
+	padding-left: 40px;
+	width: 100%;
+	height: 50%;
+	text-align: center;
+}
+#pr1 p{
+	font-size: 40px;
+	font-weight: 100;
+	color: black;
+
+}
+#p1{
+padding: auto 10px;
+margin: auto 10px;
+padding-bottom: 10px,
+}
+#p2 img{
+	width: 500px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 6px;
+}
+#p3 h1{
+	font-size: 40px;
+	font-weight: 100;
+}
+#p3 p{
+	text-align: justify;
+	font-size: 40px;
+	font-weight: 100;
+	text-align: center;
+}
+#p4 img{
+	width: 500px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 6px;
+}
+#p5 h1{
+	font-size: 40px;
+	font-weight: 100;
+}
+#p5 p{
+	text-align: justify;
+	font-size: 40px;
+	font-weight: 100;
+	text-align: center;
+}
+#p6 img{
+	width: 500px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 6px;
+}
+#p7 h1{
+	font-size: 40px;
+	font-weight: 100;
+}
+#p7 p{
+	text-align: justify;
+	font-size: 40px;
+	font-weight: 100;
+	text-align: center;
+}
